@@ -8,5 +8,6 @@ public class Week1 {
         for(int i=0; i<obj.data.length -1 ; i++){
             System.out.print(obj.data[i]+" ");
         }
+        System.out.println();
     }
 }
