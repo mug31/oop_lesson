@@ -10,4 +10,7 @@ public class Week1 {
         }
         System.out.println();
     }
+    public void cuy(String[] args) {
+        System.out.println("cihuy");
+    }
 }
