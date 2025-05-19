@@ -5,7 +5,7 @@ import tools.tools;
 public class desc {
     private int[] data;
     private double mean = 0.0;
-    private double total = 0.0;
+//    private double total = 0.0;
     private double median;
     private int modus;
 

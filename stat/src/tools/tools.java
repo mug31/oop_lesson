@@ -1,7 +1,7 @@
 package tools;
 
 public class tools {
-    private static int[] data = {10, 20, 30};
+    private static int[] data = {};
     private int hasil = -1;
 
     public tools(int[] d) {
@@ -17,7 +17,7 @@ public class tools {
     }
 
     public static void sorting() {
-        int f = -1;
+        int f = 0;
 
         for (int i = 0; i < data.length; i++) {
             for (int j = 0; j < data.length - 1; j++) {
